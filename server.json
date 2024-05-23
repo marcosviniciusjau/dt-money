@@ -15,6 +15,22 @@
       "category": "Venda",
       "type": "income",
       "createdAt": "2024-05-22T16:56:01.622Z"
+    },
+    {
+      "id": "9a97",
+      "description": "Venda de Sistema",
+      "price": 149,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-05-23T16:41:17.673Z"
+    },
+    {
+      "id": "456d",
+      "description": "aBACATE",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-05-23T16:42:51.550Z"
     }
   ]
 }
